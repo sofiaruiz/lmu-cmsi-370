@@ -57,5 +57,6 @@ The last one is a food database. This API provides the nutrition data for generi
 
 ## References
 > Used Proto.io to make designs (https://sofiaruiz.proto.io/projects/)
+
 > API webpage https://www.edamam.com/
 
