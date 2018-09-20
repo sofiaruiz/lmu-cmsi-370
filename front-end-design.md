@@ -8,7 +8,8 @@ The second is a nutrition analysis API. This API uses Natural Language Processin
 The last one is a food database. This API provides the nutrition data for generic and packaged foods, and restaurant meals. It also uses uses Natural Language Processing so that food entities from an unstructured text can be extracted. Searches can be made by keywords, food name, or a barcode. The base URL is: https://api.edamam.com/api/food-database/parser. A user is given a GET request and either a UPC (barcode) or ingredient need to be entered for the request to be valid. You also need your API ID and key to use the API. For more information the documentation can be found here: https://developer.edamam.com/food-database-api-docs.
 
 ## Top-Level Design/Layout
-> Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.
+> Screen that first comes out when you open the app (title screen):
+![Image of Screen](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/5%20-%20Screen%201.png)
 
 ## Usage Scenarios
 > A usage scenario is a mini-story that highlights how a user would accomplish a certain task in your front end. Provide at least two. Make sure to provide the following information per scenario: (a) the task that the user will perform, (b) the relevant user interface elements for performing this task, and (c) a brief narrative on how the user would perform this task with those user interface elements. Mock up, animate, or annotate your scenarios liberally.
