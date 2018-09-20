@@ -38,10 +38,16 @@ The last one is a food database. This API provides the nutrition data for generi
 > User would click on the search button at the bottom of the screen:
 ![Image of Screen2](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/6%20-%20Screen%202%20copy%202.png)
 
-> The user would then be tacken to the search food screen (as seen above). When the user is on that screen there will be "common food searches" available for them to click on (something like: cooked rice, apple, banana, Cliff bar) which will redirect them automatically to the nutrition analysis page for that specific food. If the food they are looking for is not in the common foods, they can input a search query that would take them to the nutrition analysis page for the food they inputed.
+> The user would then be tacken to the search food screen (as seen above). When the user is on that screen there will be "common food searches" available for them to click on (something like: cooked rice, apple, banana, Cliff bar) which will redirect them automatically to the nutrition analysis page for that specific food. If the food they are looking for is not in the common foods, they can input a search query that would take them to the nutrition analysis page for the food they inputed. Which would kind of look like:
+![Image of Screen7](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/4%20-%20Screen%207.png)
 
-### Usage Scenario 2
-> Ditto with the title.
+
+### Searccing for a recepie
+> To search for "something to cook" the user would need to input an ingredient (i.e. chicken) on the search bar at the top of the home screen. After they have inputed a search query they would be taken to another screen where there would be multiple recepies that contain that ingredient with the calories and number of ingredinets that are used for each recepie displayed. 
+![Image of Screen8](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/Screen%208-%20State%201%20(1).png)
+
+> Once the user is on this screen they would choose one of the recepies and click on it. After clicking on a recepie the user is taken to another screen where it takes them to a page where they can see the recepie with its ingredients and the nutritional analysis of the recepie. 
+![Image of Screen9](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/Screen%209-%20State%201.png)
 
 ## Design Rationale
 > State why your design is the way it is: relevant priorities, mental models, interaction design concepts, guidelines, principles, theories, etc. _Cite relevant references as needed._
