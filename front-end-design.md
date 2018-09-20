@@ -56,4 +56,4 @@ The last one is a food database. This API provides the nutrition data for generi
 > If implemented then tested, what would be your design’s strong metrics? Weak metrics? Explain your choices.
 
 ## References
-> Cite formally if/where applicable, as you would with any other research paper.
+> Used Proto.io to make designs (https://sofiaruiz.proto.io/projects/)
