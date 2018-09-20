@@ -38,6 +38,8 @@ The last one is a food database. This API provides the nutrition data for generi
 > User would click on the search button at the bottom of the screen:
 ![Image of Screen2](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/6%20-%20Screen%202%20copy%202.png)
 
+> The user would then be tacken to the search food screen (as seen above). When the user is on that screen there will be "common food searches" available for them to click on (something like: cooked rice, apple, banana, Cliff bar) which will redirect them automatically to the nutrition analysis page for that specific food. If the food they are looking for is not in the common foods, they can input a search query that would take them to the nutrition analysis page for the food they inputed.
+
 ### Usage Scenario 2
 > Ditto with the title.
 
