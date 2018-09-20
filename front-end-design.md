@@ -10,14 +10,19 @@ The last one is a food database. This API provides the nutrition data for generi
 ## Top-Level Design/Layout
 > Screen that first comes out when you open the app (title screen):
 ![Image of Screen](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/5%20-%20Screen%201.png)
+
 > Home Screen:
 ![Image of Screen2](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/6%20-%20Screen%202.png)
+
 > Barcode Scanner Screen:
 ![Image of Screen3](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/4%20-%20Screen%203.png)
+
 > Food search screen:
 ![Image of Screen4](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/2%20-%20Screen%204.png)
+
 > Recepie input screen:
 ![Image of Screen5](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/1%20-%20Screen%205.png)
+
 > Saved recepies screen:
 ![Image of Screen6](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/3%20-%20Screen%206.png)
 
