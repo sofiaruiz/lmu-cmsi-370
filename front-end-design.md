@@ -36,7 +36,7 @@ The last one is a food database. This API provides the nutrition data for generi
 
 ### Searching for "generic" food
 > User would click on the search button at the bottom of the screen:
-![Image of Screen2](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/6%20-%20Screen%202.png)
+![Image of Screen2](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/6%20-%20Screen%202%20copy%202.png)
 
 ### Usage Scenario 2
 > Ditto with the title.
