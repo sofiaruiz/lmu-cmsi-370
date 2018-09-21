@@ -42,7 +42,7 @@ The last one is a food database. This API provides the nutrition data for generi
 ![Image of Screen7](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/4%20-%20Screen%207.png)
 
 
-### Searccing for a recepie
+### Searching for a recepie
 > To search for "something to cook" the user would need to input an ingredient (i.e. chicken) on the search bar at the top of the home screen. After they have inputed a search query they would be taken to another screen where there would be multiple recepies that contain that ingredient with the calories and number of ingredinets that are used for each recepie displayed. 
 ![Image of Screen8](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/Screen%208-%20State%201%20(1).png)
 
@@ -50,13 +50,17 @@ The last one is a food database. This API provides the nutrition data for generi
 ![Image of Screen9](https://github.com/sofiaruiz/lmu-cmsi-370/blob/master/Screen%209-%20State%201.png)
 
 ## Design Rationale
-> State why your design is the way it is: relevant priorities, mental models, interaction design concepts, guidelines, principles, theories, etc. _Cite relevant references as needed._
+> I decided to make my app very basic and easy to use so that users could learn to use it with no problems, whether it is their first time using the app or they use it all the time. To make the app efficient I made sure to add nothing that isn't needed, the app really just does the three things mentioned in my design. I wanted to keep the app looking consistent through every screen the user can utilize so that it looks clean and crisp so that the user is satisfied with not only the information that is given back to them but also the way the information is displayed to them. To also make it efficient and easy to use, I made sure to use the icons that are displayed easy to understand and very clear on what they do. Basically, I designed the front end of the app so that it is easy to learn and use. 
 
 ## Usability Metric Forecast
-> If implemented then tested, what would be your design’s strong metrics? Weak metrics? Explain your choices.
+> The app I am designing will probably be very strong in learnability because it is very basic and just does what is expected for it to do. Some weaknesses will probably come in when people try to see an entire recepie, because the app will really only show a user the ingredients needed and a link to where the full recepie, with instructions on how to use the ingredinets, is online and this could maybe cause some problems with efficiency if the user really wants to see a very detailed explanation of the recepie they choose. This issue could also cause some unexpected errors with the app.
 
 ## References
 > Used Proto.io to make designs (https://sofiaruiz.proto.io/projects/)
 
 > API webpage https://www.edamam.com/
+
+> Hopcroft, John E., et al. Introduction to Automata Theory, Languages, and Computation. Pearson Education, 2014.
+
+> http://dondi.lmu.build/share/ixd/guidelines.pdf
 
